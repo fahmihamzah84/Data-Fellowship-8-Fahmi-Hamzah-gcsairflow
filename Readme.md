@@ -9,5 +9,5 @@ cd Data-Fellowship-8-Fahmi-Hamzah-gcsairflow && code .
 ```bash
 docker compose up
 ```
-- After airflow installed, you can open Airflow WebUI on (localhost)[localhost:8080]
+- After airflow installed, you can open Airflow WebUI on [localhost](localhost:8080)
 - Login using default username "airflow" and password "airflow"
